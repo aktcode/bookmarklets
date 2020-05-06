@@ -1,2 +1,2 @@
-# bookmarklets
+# Bookmarklets
 A wide collection bookmarklets
