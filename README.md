@@ -1,2 +1,2 @@
 # Bookmarklets
-A wide collection bookmarklets
+A collection bookmarklets that may increase your productivity.
